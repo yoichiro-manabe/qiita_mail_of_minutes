@@ -1,0 +1,2 @@
+class QiitaEntry
+end
